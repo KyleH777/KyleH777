@@ -16,7 +16,7 @@
 | Project | Primary Skill | Secondary Skills | Engineering Focus |
 | :--- | :--- | :--- | :--- |
 | [**ApexStore Analytics**](https://github.com/KyleH777/SQL) | **SQL** | PostgreSQL, Data Modeling | Window Functions & Query Optimization |
-| [**SmartFinance AI**](link-to-repo) | **Java** | Spring Boot, OpenAI API | AI Integration & Layered Architecture |
+| [**SmartFinance AI**](https://github.com/KyleH777/Java-AI) | **Java** | Spring Boot, OpenAI API | AI Integration & Layered Architecture |
 | [**TickStream Parser**](link-to-repo) | **C++** | Multithreading, CMake | Zero-copy I/O & Memory Management |
 | [**AgentPulse Monitor**](https://github.com/KyleH777/Real-Time-AI-Agent-Monitoring-System) | **Python** | FastAPI, WebSockets | Asynchronous Concurrency & Type Safety |
 
