@@ -18,6 +18,6 @@
 | [**ApexStore Analytics**](link-to-repo) | **SQL** | PostgreSQL, Data Modeling | Window Functions & Query Optimization |
 | [**SmartFinance AI**](link-to-repo) | **Java** | Spring Boot, OpenAI API | AI Integration & Layered Architecture |
 | [**TickStream Parser**](link-to-repo) | **C++** | Multithreading, CMake | Zero-copy I/O & Memory Management |
-| [**AgentPulse Monitor**](link-to-repo) | **Python** | FastAPI, WebSockets | Asynchronous Concurrency & Type Safety |
+| [**AgentPulse Monitor**](https://github.com/KyleH777/Real-Time-AI-Agent-Monitoring-System) | **Python** | FastAPI, WebSockets | Asynchronous Concurrency & Type Safety |
 
 ---
