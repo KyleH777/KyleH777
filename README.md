@@ -19,7 +19,7 @@
 | [**Java-AI**](https://github.com/KyleH777/Java-AI) | **Java** | Spring Boot, OpenAI API | AI Integration & Layered Architecture |
 | [**C--**](https://github.com/KyleH777/C--) | **C++** | Multithreading, CMake | Zero-copy I/O & Memory Management |
 | [**Real-Time-AI-Agent-Monitoring-System**](https://github.com/KyleH777/Real-Time-AI-Agent-Monitoring-System) | **Python** | FastAPI, WebSockets | Asynchronous Concurrency & Type Safety |
-| [**SQL-Injections**](https://github.com/KyleH777/SQL-Injections) | **SQL** | Security, PostgreSQL | Injection Techniques & Vulnerability Prevention |
+| [**Injections SQLi**](https://github.com/KyleH777/injection) | **SQL** | Security, PostgreSQL | Injection Techniques & Vulnerability Prevention |
 
 ---
 
