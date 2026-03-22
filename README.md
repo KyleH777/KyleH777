@@ -22,4 +22,4 @@
 
 ---
 
-🤖 Full transparency, Claude did help me write some code. I am a firm believer in AI being a tool to boost productivity. 
+🤖 Full transparency, Claude did help me write some code. I am a firm believer in AI being a tool to help productivity. 
