@@ -15,11 +15,12 @@
 
 | Project | Primary Skill | Secondary Skills | Engineering Focus |
 | :--- | :--- | :--- | :--- |
-| [**ApexStore Analytics**](https://github.com/KyleH777/SQL) | **SQL** | PostgreSQL, Data Modeling | Window Functions & Query Optimization |
-| [**SmartFinance AI**](https://github.com/KyleH777/Java-AI) | **Java** | Spring Boot, OpenAI API | AI Integration & Layered Architecture |
-| [**TickProc**](https://github.com/KyleH777/C--) | **C++** | Multithreading, CMake | Zero-copy I/O & Memory Management |
-| [**AgentPulse Monitor**](https://github.com/KyleH777/Real-Time-AI-Agent-Monitoring-System) | **Python** | FastAPI, WebSockets | Asynchronous Concurrency & Type Safety |
+| [**SQL**](https://github.com/KyleH777/SQL) | **SQL** | PostgreSQL, Data Modeling | Window Functions & Query Optimization |
+| [**Java-AI**](https://github.com/KyleH777/Java-AI) | **Java** | Spring Boot, OpenAI API | AI Integration & Layered Architecture |
+| [**C--**](https://github.com/KyleH777/C--) | **C++** | Multithreading, CMake | Zero-copy I/O & Memory Management |
+| [**Real-Time-AI-Agent-Monitoring-System**](https://github.com/KyleH777/Real-Time-AI-Agent-Monitoring-System) | **Python** | FastAPI, WebSockets | Asynchronous Concurrency & Type Safety |
+| [**SQL-Injections**](https://github.com/KyleH777/SQL-Injections) | **SQL** | Security, PostgreSQL | Injection Techniques & Vulnerability Prevention |
 
 ---
 
-🤖 Full transparency, Claude did help me write some code. I am a firm believer in AI being a tool to help productivity. 
+🤖 Full transparency — I use AI as a tool to help me build and learn. I believe AI is the future of development: a powerful assistant that amplifies productivity and creativity. I'm not hiding it, I'm embracing it. The goal is to use it as a tool to help us learn and create — not a crutch.
