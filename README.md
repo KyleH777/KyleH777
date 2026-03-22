@@ -21,3 +21,5 @@
 | [**AgentPulse Monitor**](https://github.com/KyleH777/Real-Time-AI-Agent-Monitoring-System) | **Python** | FastAPI, WebSockets | Asynchronous Concurrency & Type Safety |
 
 ---
+
+##🕺 Full transparency, Claude did help me write some code. I am a firm believer in AI being a tool to boost productivity. 
