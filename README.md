@@ -23,7 +23,7 @@
 
 ---
 
-🤖 Full transparency — I use AI as a tool to help me build and learn. I believe AI is the future of development: a powerful assistant that amplifies productivity and creativity. I'm not hiding it, I'm embracing it. The goal is to use it as a tool to help us learn and create — not a crutch.
+###🤖 Full transparency### — I use AI as a tool to help me build and learn. I believe AI is the future of development: a powerful assistant that amplifies productivity and creativity. I'm not hiding it, I'm embracing it. The goal is to use it as a tool to help us learn and create — not a crutch.
 
 
-AI/ML Portfolio App: https://harry918-ai-portfolio-app.hf.space 
+###AI/ML Portfolio App: https://harry918-ai-portfolio-app.hf.space 
