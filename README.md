@@ -18,7 +18,7 @@
 | [**SQL**](https://github.com/KyleH777/SQL) | **SQL** | PostgreSQL, Data Modeling | Window Functions & Query Optimization |
 | [**Java-AI**](https://github.com/KyleH777/Java-AI) | **Java** | Spring Boot, OpenAI API | AI Integration & Layered Architecture |
 | 🚧 [**C\-\-**](https://github.com/KyleH777/C--) | **C++** | Multithreading, CMake | Zero-copy I/O & Memory Management |
-| [**Real-Time-AI-Agent-Monitoring-System**](https://github.com/KyleH777/Real-Time-AI-Agent-Monitoring-System)  (https://github.com/KyleH777/Celery)| **Python** | FastAPI, WebSockets | Asynchronous Concurrency & Type Safety |
+| [**Real-Time-AI-Agent-Monitoring-System**](https://github.com/KyleH777/Real-Time-AI-Agent-Monitoring-System)| **Python** | FastAPI, WebSockets | Asynchronous Concurrency & Type Safety |
 | [**SQL-Injections**](https://github.com/KyleH777/Injection) | **SQL** | Security, PostgreSQL | Injection Techniques & Vulnerability Prevention |
 | [**SentinalHash**](https://github.com/KyleH777/SentinelHash) | **Java** | Proof of no AI to complete work |
 ---
